@@ -1,6 +1,8 @@
 # Algorithm
 #Python #Java
 
+
+# Daily Report
 ## 2024.04.15
 ### 자료구조
 - singly linked list, stack, queue, binary tree 구현
