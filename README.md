@@ -10,6 +10,7 @@
 #### - 기수 정렬 Radix Sort
   : 일의 자릿수 부터 각 자릿수별 버킷 정렬 반복 수행(한계 극복)
 #### - 선택 정렬 Selection Sort
+  : 가장 작은 데이터와 가장 앞에 데이터를 교환 하는 과정을 반복
 #### - 교환 정렬 Exchange Sort
 #### - 삽입 정렬 Insert Sort
 #### - 셀 정렬 Shell Sort
