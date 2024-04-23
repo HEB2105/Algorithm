@@ -25,6 +25,9 @@
 #### - 퀵 정렬 Quick Sort
 #### - 힙 정렬 Heap Sort
 
+### 시간 복잡도
+![image](https://github.com/HEB2105/Algorithm/assets/126545445/824a4c63-c996-46e0-81a2-0e45c6ba6891)
+
 
 ## 검색 알고리즘
 
